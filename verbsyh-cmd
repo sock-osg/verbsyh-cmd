@@ -51,8 +51,10 @@ def getAndValidateEntry(verbRaw, timeVerb):
                     hits += 1
                     counter = 1000
                 else:
-                    errors += 1
                     counter += 1
+                    if counter == 2:
+                        errors += 1
+
                 break
 
 def validateEntry(userEntry, verb):
@@ -67,7 +69,7 @@ def printFullEntry(verb):
     print bcolors.WARNING + "[[[ " + verb["baseWord"] + "  =>  " + verb["simplePast"]["word"] + "  =>  " + verb["pastParticiple"]["word"] + " ]]]" + bcolors.ENDC
 
 def loadJson():
-    verbs_file_path = expanduser('~') + '/.irregsyh/user-verbs.json'
+    verbs_file_path = expanduser('~') + '/.verbsyh/user-verbs.json'
 
     with open(verbs_file_path) as data_file:
         data = json.load(data_file)
