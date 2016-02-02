@@ -1,0 +1,1306 @@
+{
+    "verbs":[
+        {
+            "baseWord": "be",
+            "baseTranslation": "ser o estar",
+            "simplePast": {
+                "word": "was/were",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "been",
+                "example": "He has been there twice the last year",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "beat",
+            "baseTranslation": "golpear",
+            "simplePast": {
+                "word": "beat",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "beaten",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "become",
+            "baseTranslation": "hacerse",
+            "simplePast": {
+                "word": "became",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "become",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "begin",
+            "baseTranslation": "comienzo",
+            "simplePast": {
+                "word": "began",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "begun",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "bite",
+            "baseTranslation": "morder",
+            "simplePast": {
+                "word": "bit",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "bitten",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "blow",
+            "baseTranslation": "soplar",
+            "simplePast": {
+                "word": "blew",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "blown",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "break",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "broke",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "broken",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "bring",
+            "baseTranslation": "traer",
+            "simplePast": {
+                "word": "brought",
+                "example": "I brought you my bullets",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "brought",
+                "example": "They have bought the book which they were told to read",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "build",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "built",
+                "example": "The factory was built in 1936",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "built",
+                "example": "This company has built many houses",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "burn",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "burnt/burned",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "burnt/burned",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "buy",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "bought",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "bought",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "catch",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "caught",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "caught",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "choose",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "chose",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "chosen",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "come",
+            "baseTranslation": "venir",
+            "simplePast": {
+                "word": "came",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "come",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "cost",
+            "baseTranslation": "costar",
+            "simplePast": {
+                "word": "cost",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "cost",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "cut",
+            "baseTranslation": "cortar",
+            "simplePast": {
+                "word": "cut",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "cut",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "deal",
+            "baseTranslation": "negociar",
+            "simplePast": {
+                "word": "dealt",
+                "example": "hopes of an economic recovery were dealt another blow",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "dealt",
+                "example": "the government had been unable to deal with the economic crisis",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "do",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "did",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "done",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "draw",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "drew",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "drawn",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "drink",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "drank",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "drunk",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "drive",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "drove",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "driven",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "eat",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "ate",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "eaten",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "fall",
+            "baseTranslation": "caer",
+            "simplePast": {
+                "word": "fell",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "fallen",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "feed",
+            "baseTranslation": "alimentar",
+            "simplePast": {
+                "word": "fed",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "fed",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "feel",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "felt",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "felt",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "fight",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "fought",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "fought",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "find",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "found",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "found",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "fly",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "flew",
+                "example": "The hunter flew the hawk at a pigeon",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "flown",
+                "example": "We have flown with American five times",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "forget",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "forgot",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "forgotten",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "freeze",
+            "baseTranslation": "congelar",
+            "simplePast": {
+                "word": "froze",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "frozen",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "get",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "got",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "got",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "give",
+            "baseTranslation": "dar",
+            "simplePast": {
+                "word": "gave",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "given",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "go",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "went",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "gone",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "grow",
+            "baseTranslation": "crecer",
+            "simplePast": {
+                "word": "grew",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "grown",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "hang",
+            "baseTranslation": "colgar",
+            "simplePast": {
+                "word": "hung",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "hung",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "have",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "had",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "had",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "hear",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "heard",
+                "example": "I heard she can do some tricks with her mouth nigga",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "heard",
+                "example": "I have heard that you got a new job",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "hide",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "hid",
+                "example": "She hid a secret from her family",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "hidden",
+                "example": "I had hidden my folder in WinXP using cmd attrib",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "hit",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "hit",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "hit",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "hold",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "held",
+                "example": "They held each other and kissed and pushed each others",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "held",
+                "example": "All day long I have held out my hands to an obstinate people",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "hurt",
+            "baseTranslation": "herir, lastimar",
+            "simplePast": {
+                "word": "hurt",
+                "example": "The thieves did not hurt the family during the robbery",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "hurt",
+                "example": "You have hurt or harmed someone and want to apologize and heal the relationship",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "keep",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "kept",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "kept",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "know",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "knew",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "known",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "learn",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "learnt/learned",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "learnt/learned",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "leave",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "left",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "left",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "lend",
+            "baseTranslation": "prestar",
+            "simplePast": {
+                "word": "lent",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "lent",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "let",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "let",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "let",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "lie",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "lay",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "lain",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "light",
+            "baseTranslation": "iluminar, alumbrar",
+            "simplePast": {
+                "word": "lit",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "lit",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "lose",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "lost",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "lost",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "make",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "made",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "made",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "mean",
+            "baseTranslation": "significar",
+            "simplePast": {
+                "word": "meant",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "meant",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "meet",
+            "baseTranslation": "reunirse",
+            "simplePast": {
+                "word": "met",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "met",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "pay",
+            "baseTranslation": "pagar",
+            "simplePast": {
+                "word": "paid",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "paid",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "put",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "put",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "put",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "read",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "read",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "read",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "ride",
+            "baseTranslation": "montar, viajar",
+            "simplePast": {
+                "word": "rode",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "ridden",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "ring",
+            "baseTranslation": "sonar, tocar",
+            "simplePast": {
+                "word": "rang",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "rung",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "run",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "ran",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "run",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "say",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "said",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "said",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "see",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "saw",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "seen",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "sell",
+            "baseTranslation": "vender",
+            "simplePast": {
+                "word": "sold",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "sold",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "send",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "sent",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "sent",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "set",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "set",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "set",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "shake",
+            "baseTranslation": "agitar, sacudir",
+            "simplePast": {
+                "word": "shook",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "shaken",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "shoot",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "shot",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "shot",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "show",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "showed",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "shown",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "shut",
+            "baseTranslation": "cerrar",
+            "simplePast": {
+                "word": "shut",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "shut",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "sing",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "sang",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "sung",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "sink",
+            "baseTranslation": "hundirse",
+            "simplePast": {
+                "word": "sank",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "sunk",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "sit",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "sat",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "sat",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "sleep",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "slept",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "slept",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "smell",
+            "baseTranslation": "oler",
+            "simplePast": {
+                "word": "smelt/smelled",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "smelt/smelled",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "speak",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "spoke",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "spoken",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "spell",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "spelt/spelled",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "spelt/spelled",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "spend",
+            "baseTranslation": "gastar",
+            "simplePast": {
+                "word": "spent",
+                "example": "the firm has spent $100,000 on hardware and software",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "spent",
+                "example": "the firm has spent $100,000 on hardware and software",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "spill",
+            "baseTranslation": "derramar",
+            "simplePast": {
+                "word": "spilt/spilled",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "spilt/spilled",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "spread",
+            "baseTranslation": "difundir, propagar",
+            "simplePast": {
+                "word": "spread",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "spread",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "stand",
+            "baseTranslation": "estar",
+            "simplePast": {
+                "word": "stood",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "stood",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "steal",
+            "baseTranslation": "robar",
+            "simplePast": {
+                "word": "stole",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "stoken",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "sting",
+            "baseTranslation": "picar",
+            "simplePast": {
+                "word": "stung",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "stung",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "swim",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "swam",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "swum",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "take",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "took",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "taken",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "teach",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "taught",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "taught",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "tell",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "told",
+                "example": "I told you twice",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "told",
+                "example": "I had told you how i felt",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "think",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "thought",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "thought",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "throw",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "threw",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "thrown",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "understand",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "understood",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "understood",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "wake",
+            "baseTranslation": "despertar",
+            "simplePast": {
+                "word": "woke",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "woken",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "wear",
+            "baseTranslation": "vestir",
+            "simplePast": {
+                "word": "wore",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "worn",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "win",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "won",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "won",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "withdraw",
+            "baseTranslation": "retirarse",
+            "simplePast": {
+                "word": "withdrew",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "withdrawn",
+                "example": "",
+                "translation": ""
+            }
+        },
+        {
+            "baseWord": "write",
+            "baseTranslation": "",
+            "simplePast": {
+                "word": "wrote",
+                "example": "",
+                "translation": ""
+            },
+            "pastParticiple": {
+                "word": "written",
+                "example": "",
+                "translation": ""
+            }
+        }
+    ]
+}
