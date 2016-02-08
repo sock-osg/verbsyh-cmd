@@ -2,6 +2,7 @@
 
 import json
 from pprint import pprint
+import os.path
 from os.path import expanduser
 import sys
 import getopt
@@ -32,12 +33,12 @@ def getAndValidateEntry(verbRaw, timeVerb):
     global hits
     counter = 0
     while counter < 2:
-        entry = raw_input(timeVerb + " [-h for help]: ")
+        entry = raw_input(timeVerb + " [-e for an example of use]: ")
         while True:
-            if entry == '-h':
+            if entry == '-e':
                 currentVerb = verbRaw["word"]
                 print "Example: " + verbRaw["example"].replace(currentVerb, currentVerb[:1] + "___" + currentVerb[-1:])
-                entry = raw_input(timeVerb + " [-h for help]: ")
+                entry = raw_input(timeVerb + " [-e for an example of use]: ")
             elif entry == '-s':
                 counter = 100
                 errors += 1
@@ -70,6 +71,10 @@ def printFullEntry(verb):
 
 def loadJson():
     verbs_file_path = expanduser('~') + '/.verbsyh/user-verbs.json'
+
+    if not os.path.isfile(verbs_file_path):
+        print "Using default DB of verbs"
+        verbs_file_path = 'user-verbs.json'
 
     with open(verbs_file_path) as data_file:
         data = json.load(data_file)
@@ -106,22 +111,34 @@ def testMeaning():
         entry = raw_input("Write the meaning (in Spanish) : ")
         validateEntry(entry, verb['baseTranslation'])
 
+def printUsage():
+    print "verbsyh-cmd <options>"
+    print "Options: "
+    print "  -h     Show the usage."
+    print "  -m     Mode of operation. This are the options [test, equals, meaning]"
+
 def main(argv):
     try:
-        opts, args = getopt.getopt(argv, "htsm")
+        opts, args = getopt.getopt(argv, "hm:", ["mmode="])
     except:
         print "Error"
         sys.exit(2)
 
     for opt, arg in opts:
         if opt == '-h':
-            print "Usage ..."
-            system.exit()
-        elif opt in ("-t", "--ttest"):
-            testVerbs()
-        elif opt in ("-s", "--sequals"):
-            showAllEquals()
-        elif opt in ("-m"):
-            testMeaning()
+            printUsage()
+            sys.exit()
+        elif opt in ("-m", "--mmode"):
+            mode = arg
+            if mode == 'test':
+                testVerbs()
+            elif mode == 'equals':
+                showAllEquals()
+            elif mode == 'meaning':
+                testMeaning()
+        else:
+            print "Error"
+            printUsage()
+            sys.exit()
 
 main(sys.argv[1:])
