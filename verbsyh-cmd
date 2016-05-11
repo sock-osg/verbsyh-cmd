@@ -23,7 +23,8 @@ class bcolors:
 
 def printTestVerb(verbRaw):
     print "**************************************"
-    print "Entries for << " + bcolors.OKBLUE + verbRaw["baseWord"] + "  ::  " + verbRaw["baseTranslation"] + bcolors.ENDC + " >>"
+    print "Entries for << " + bcolors.OKBLUE + verbRaw["baseTranslation"] + bcolors.ENDC + " >>"
+    getAndValidateEntry(verbRaw["baseWord"], "Base Verb")
     getAndValidateEntry(verbRaw["simplePast"], "Simple Past")
     getAndValidateEntry(verbRaw["pastParticiple"], "Past Participle")
     printFullEntry(verbRaw)
@@ -67,7 +68,7 @@ def validateEntry(userEntry, verb):
     return result;
 
 def printFullEntry(verb):
-    print bcolors.WARNING + "[[[ " + verb["baseWord"] + "  =>  " + verb["simplePast"]["word"] + "  =>  " + verb["pastParticiple"]["word"] + " ]]]" + bcolors.ENDC
+    print bcolors.WARNING + "[[[ " + verb["baseWord"]["word"] + "  =>  " + verb["simplePast"]["word"] + "  =>  " + verb["pastParticiple"]["word"] + " ]]]" + bcolors.ENDC
 
 def loadJson():
     verbs_file_path = expanduser('~') + '/.verbsyh/user-verbs.json'

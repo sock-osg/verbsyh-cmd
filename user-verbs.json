@@ -1,8 +1,12 @@
 {
     "verbs":[
         {
-            "baseWord": "be",
             "baseTranslation": "ser o estar",
+            "baseWord": {
+                "word": "be",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "was/were",
                 "example": "",
@@ -15,8 +19,12 @@
             }
         },
         {
-            "baseWord": "beat",
-            "baseTranslation": "golpear",
+            "baseTranslation": "vencer, derrotar, golpear",
+            "baseWord": {
+                "word": "beat",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "beat",
                 "example": "",
@@ -29,8 +37,12 @@
             }
         },
         {
-            "baseWord": "become",
-            "baseTranslation": "hacerse",
+            "baseTranslation": "convertirse en, volverse, hacerse",
+            "baseWord": {
+                "word": "become",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "became",
                 "example": "",
@@ -43,8 +55,12 @@
             }
         },
         {
-            "baseWord": "begin",
-            "baseTranslation": "comienzo",
+            "baseTranslation": "comenzar, empezar",
+            "baseWord": {
+                "word": "begin",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "began",
                 "example": "",
@@ -57,8 +73,12 @@
             }
         },
         {
-            "baseWord": "bite",
             "baseTranslation": "morder",
+            "baseWord": {
+                "word": "bite",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "bit",
                 "example": "",
@@ -71,8 +91,12 @@
             }
         },
         {
-            "baseWord": "blow",
-            "baseTranslation": "soplar",
+            "baseTranslation": "soplar, volar",
+            "baseWord": {
+                "word": "blow",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "blew",
                 "example": "",
@@ -85,8 +109,12 @@
             }
         },
         {
-            "baseWord": "break",
-            "baseTranslation": "",
+            "baseTranslation": "romper",
+            "baseWord": {
+                "word": "break",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "broke",
                 "example": "",
@@ -99,8 +127,12 @@
             }
         },
         {
-            "baseWord": "bring",
-            "baseTranslation": "traer",
+            "baseTranslation": "traer, llevar",
+            "baseWord": {
+                "word": "bring",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "brought",
                 "example": "I brought you my bullets",
@@ -113,8 +145,12 @@
             }
         },
         {
-            "baseWord": "build",
-            "baseTranslation": "",
+            "baseTranslation": "construir",
+            "baseWord": {
+                "word": "build",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "built",
                 "example": "The factory was built in 1936",
@@ -127,8 +163,12 @@
             }
         },
         {
-            "baseWord": "burn",
-            "baseTranslation": "",
+            "baseTranslation": "quemar",
+            "baseWord": {
+                "word": "burn",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "burnt/burned",
                 "example": "",
@@ -141,8 +181,12 @@
             }
         },
         {
-            "baseWord": "buy",
-            "baseTranslation": "",
+            "baseTranslation": "comprar",
+            "baseWord": {
+                "word": "buy",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "bought",
                 "example": "",
@@ -155,8 +199,12 @@
             }
         },
         {
-            "baseWord": "catch",
-            "baseTranslation": "",
+            "baseTranslation": "atrapar, coger",
+            "baseWord": {
+                "word": "catch",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "caught",
                 "example": "",
@@ -169,8 +217,12 @@
             }
         },
         {
-            "baseWord": "choose",
-            "baseTranslation": "",
+            "baseTranslation": "elegir, escoger",
+            "baseWord": {
+                "word": "choose",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "chose",
                 "example": "",
@@ -183,8 +235,12 @@
             }
         },
         {
-            "baseWord": "come",
             "baseTranslation": "venir",
+            "baseWord": {
+                "word": "come",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "came",
                 "example": "",
@@ -197,8 +253,12 @@
             }
         },
         {
-            "baseWord": "cost",
             "baseTranslation": "costar",
+            "baseWord": {
+                "word": "cost",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "cost",
                 "example": "",
@@ -211,8 +271,12 @@
             }
         },
         {
-            "baseWord": "cut",
             "baseTranslation": "cortar",
+            "baseWord": {
+                "word": "cut",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "cut",
                 "example": "",
@@ -225,8 +289,12 @@
             }
         },
         {
-            "baseWord": "deal",
-            "baseTranslation": "negociar",
+            "baseTranslation": "negociar, repartir",
+            "baseWord": {
+                "word": "deal",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "dealt",
                 "example": "hopes of an economic recovery were dealt another blow",
@@ -239,8 +307,12 @@
             }
         },
         {
-            "baseWord": "do",
-            "baseTranslation": "",
+            "baseTranslation": "hacer, realizar",
+            "baseWord": {
+                "word": "do",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "did",
                 "example": "",
@@ -253,8 +325,12 @@
             }
         },
         {
-            "baseWord": "draw",
-            "baseTranslation": "",
+            "baseTranslation": "dibujar, trazar",
+            "baseWord": {
+                "word": "draw",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "drew",
                 "example": "",
@@ -267,8 +343,12 @@
             }
         },
         {
-            "baseWord": "drink",
-            "baseTranslation": "",
+            "baseTranslation": "beber, tomar",
+            "baseWord": {
+                "word": "drink",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "drank",
                 "example": "",
@@ -281,8 +361,12 @@
             }
         },
         {
-            "baseWord": "drive",
-            "baseTranslation": "",
+            "baseTranslation": "conducir, manejar",
+            "baseWord": {
+                "word": "drive",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "drove",
                 "example": "",
@@ -295,8 +379,12 @@
             }
         },
         {
-            "baseWord": "eat",
-            "baseTranslation": "",
+            "baseTranslation": "comer",
+            "baseWord": {
+                "word": "eat",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "ate",
                 "example": "",
@@ -309,8 +397,12 @@
             }
         },
         {
-            "baseWord": "fall",
             "baseTranslation": "caer",
+            "baseWord": {
+                "word": "fall",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "fell",
                 "example": "",
@@ -323,8 +415,12 @@
             }
         },
         {
-            "baseWord": "feed",
             "baseTranslation": "alimentar",
+            "baseWord": {
+                "word": "feed",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "fed",
                 "example": "",
@@ -337,8 +433,12 @@
             }
         },
         {
-            "baseWord": "feel",
-            "baseTranslation": "",
+            "baseTranslation": "sentir, experimentar",
+            "baseWord": {
+                "word": "feel",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "felt",
                 "example": "",
@@ -351,8 +451,12 @@
             }
         },
         {
-            "baseWord": "fight",
-            "baseTranslation": "",
+            "baseTranslation": "luchar, combatir",
+            "baseWord": {
+                "word": "fight",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "fought",
                 "example": "",
@@ -365,8 +469,12 @@
             }
         },
         {
-            "baseWord": "find",
-            "baseTranslation": "",
+            "baseTranslation": "encontrar",
+            "baseWord": {
+                "word": "find",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "found",
                 "example": "",
@@ -379,8 +487,12 @@
             }
         },
         {
-            "baseWord": "fly",
-            "baseTranslation": "",
+            "baseTranslation": "volar",
+            "baseWord": {
+                "word": "fly",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "flew",
                 "example": "The hunter flew the hawk at a pigeon",
@@ -393,8 +505,12 @@
             }
         },
         {
-            "baseWord": "forget",
-            "baseTranslation": "",
+            "baseTranslation": "olvidar",
+            "baseWord": {
+                "word": "forget",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "forgot",
                 "example": "",
@@ -407,8 +523,12 @@
             }
         },
         {
-            "baseWord": "freeze",
             "baseTranslation": "congelar",
+            "baseWord": {
+                "word": "freeze",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "froze",
                 "example": "",
@@ -421,8 +541,12 @@
             }
         },
         {
-            "baseWord": "get",
-            "baseTranslation": "",
+            "baseTranslation": "obtener, llegar",
+            "baseWord": {
+                "word": "get",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "got",
                 "example": "",
@@ -435,8 +559,12 @@
             }
         },
         {
-            "baseWord": "give",
-            "baseTranslation": "dar",
+            "baseTranslation": "dar, ofrecer",
+            "baseWord": {
+                "word": "give",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "gave",
                 "example": "",
@@ -449,8 +577,12 @@
             }
         },
         {
-            "baseWord": "go",
-            "baseTranslation": "",
+            "baseTranslation": "ir",
+            "baseWord": {
+                "word": "go",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "went",
                 "example": "",
@@ -463,8 +595,12 @@
             }
         },
         {
-            "baseWord": "grow",
-            "baseTranslation": "crecer",
+            "baseTranslation": "crecer, desarrollarse",
+            "baseWord": {
+                "word": "grow",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "grew",
                 "example": "",
@@ -477,8 +613,12 @@
             }
         },
         {
-            "baseWord": "hang",
-            "baseTranslation": "colgar",
+            "baseTranslation": "colgar, pender",
+            "baseWord": {
+                "word": "hang",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "hung",
                 "example": "",
@@ -491,8 +631,12 @@
             }
         },
         {
-            "baseWord": "have",
-            "baseTranslation": "",
+            "baseTranslation": "tener",
+            "baseWord": {
+                "word": "have",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "had",
                 "example": "",
@@ -505,8 +649,12 @@
             }
         },
         {
-            "baseWord": "hear",
-            "baseTranslation": "",
+            "baseTranslation": "oir, escuchar",
+            "baseWord": {
+                "word": "hear",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "heard",
                 "example": "I heard she can do some tricks with her mouth nigga",
@@ -519,8 +667,12 @@
             }
         },
         {
-            "baseWord": "hide",
-            "baseTranslation": "",
+            "baseTranslation": "esconder, encubrir",
+            "baseWord": {
+                "word": "hide",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "hid",
                 "example": "She hid a secret from her family",
@@ -533,8 +685,12 @@
             }
         },
         {
-            "baseWord": "hit",
-            "baseTranslation": "",
+            "baseTranslation": "golpear, pegar",
+            "baseWord": {
+                "word": "hit",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "hit",
                 "example": "",
@@ -547,8 +703,12 @@
             }
         },
         {
-            "baseWord": "hold",
-            "baseTranslation": "",
+            "baseTranslation": "mantener, sostener, retener",
+            "baseWord": {
+                "word": "hold",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "held",
                 "example": "They held each other and kissed and pushed each others",
@@ -561,8 +721,12 @@
             }
         },
         {
-            "baseWord": "hurt",
             "baseTranslation": "herir, lastimar",
+            "baseWord": {
+                "word": "hurt",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "hurt",
                 "example": "The thieves did not hurt the family during the robbery",
@@ -575,8 +739,12 @@
             }
         },
         {
-            "baseWord": "keep",
-            "baseTranslation": "",
+            "baseTranslation": "mantenerse, seguir, conservar",
+            "baseWord": {
+                "word": "keep",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "kept",
                 "example": "",
@@ -589,8 +757,12 @@
             }
         },
         {
-            "baseWord": "know",
-            "baseTranslation": "",
+            "baseTranslation": "saber, conocer",
+            "baseWord": {
+                "word": "know",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "knew",
                 "example": "",
@@ -603,8 +775,12 @@
             }
         },
         {
-            "baseWord": "learn",
-            "baseTranslation": "",
+            "baseTranslation": "aprender, conocer",
+            "baseWord": {
+                "word": "learn",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "learnt/learned",
                 "example": "",
@@ -617,8 +793,12 @@
             }
         },
         {
-            "baseWord": "leave",
-            "baseTranslation": "",
+            "baseTranslation": "dejar, salir, abandonar",
+            "baseWord": {
+                "word": "leave",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "left",
                 "example": "",
@@ -631,8 +811,12 @@
             }
         },
         {
-            "baseWord": "lend",
             "baseTranslation": "prestar",
+            "baseWord": {
+                "word": "lend",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "lent",
                 "example": "",
@@ -645,8 +829,12 @@
             }
         },
         {
-            "baseWord": "let",
-            "baseTranslation": "",
+            "baseTranslation": "dejar, permitir, arrendar",
+            "baseWord": {
+                "word": "let",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "let",
                 "example": "",
@@ -659,8 +847,12 @@
             }
         },
         {
-            "baseWord": "lie",
-            "baseTranslation": "",
+            "baseTranslation": "mentir, yacer",
+            "baseWord": {
+                "word": "lie",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "lay",
                 "example": "",
@@ -673,8 +865,12 @@
             }
         },
         {
-            "baseWord": "light",
             "baseTranslation": "iluminar, alumbrar",
+            "baseWord": {
+                "word": "light",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "lit",
                 "example": "",
@@ -687,8 +883,12 @@
             }
         },
         {
-            "baseWord": "lose",
-            "baseTranslation": "",
+            "baseTranslation": "perder",
+            "baseWord": {
+                "word": "lose",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "lost",
                 "example": "",
@@ -703,6 +903,11 @@
         {
             "baseWord": "make",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "made",
                 "example": "",
@@ -717,6 +922,11 @@
         {
             "baseWord": "mean",
             "baseTranslation": "significar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "meant",
                 "example": "",
@@ -731,6 +941,11 @@
         {
             "baseWord": "meet",
             "baseTranslation": "reunirse",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "met",
                 "example": "",
@@ -745,6 +960,11 @@
         {
             "baseWord": "pay",
             "baseTranslation": "pagar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "paid",
                 "example": "",
@@ -759,6 +979,11 @@
         {
             "baseWord": "put",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "put",
                 "example": "",
@@ -773,6 +998,11 @@
         {
             "baseWord": "read",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "read",
                 "example": "",
@@ -787,6 +1017,11 @@
         {
             "baseWord": "ride",
             "baseTranslation": "montar, viajar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "rode",
                 "example": "",
@@ -801,6 +1036,11 @@
         {
             "baseWord": "ring",
             "baseTranslation": "sonar, tocar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "rang",
                 "example": "",
@@ -815,6 +1055,11 @@
         {
             "baseWord": "run",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "ran",
                 "example": "",
@@ -829,6 +1074,11 @@
         {
             "baseWord": "say",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "said",
                 "example": "",
@@ -843,6 +1093,11 @@
         {
             "baseWord": "see",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "saw",
                 "example": "",
@@ -857,6 +1112,11 @@
         {
             "baseWord": "sell",
             "baseTranslation": "vender",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "sold",
                 "example": "",
@@ -871,6 +1131,11 @@
         {
             "baseWord": "send",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "sent",
                 "example": "",
@@ -885,6 +1150,11 @@
         {
             "baseWord": "set",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "set",
                 "example": "",
@@ -899,6 +1169,11 @@
         {
             "baseWord": "shake",
             "baseTranslation": "agitar, sacudir",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "shook",
                 "example": "",
@@ -913,6 +1188,11 @@
         {
             "baseWord": "shoot",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "shot",
                 "example": "",
@@ -927,6 +1207,11 @@
         {
             "baseWord": "show",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "showed",
                 "example": "",
@@ -941,6 +1226,11 @@
         {
             "baseWord": "shut",
             "baseTranslation": "cerrar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "shut",
                 "example": "",
@@ -955,6 +1245,11 @@
         {
             "baseWord": "sing",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "sang",
                 "example": "",
@@ -969,6 +1264,11 @@
         {
             "baseWord": "sink",
             "baseTranslation": "hundirse",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "sank",
                 "example": "",
@@ -983,6 +1283,11 @@
         {
             "baseWord": "sit",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "sat",
                 "example": "",
@@ -997,6 +1302,11 @@
         {
             "baseWord": "sleep",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "slept",
                 "example": "",
@@ -1011,6 +1321,11 @@
         {
             "baseWord": "smell",
             "baseTranslation": "oler",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "smelt/smelled",
                 "example": "",
@@ -1025,6 +1340,11 @@
         {
             "baseWord": "speak",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "spoke",
                 "example": "",
@@ -1039,6 +1359,11 @@
         {
             "baseWord": "spell",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "spelt/spelled",
                 "example": "",
@@ -1053,6 +1378,11 @@
         {
             "baseWord": "spend",
             "baseTranslation": "gastar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "spent",
                 "example": "the firm has spent $100,000 on hardware and software",
@@ -1067,6 +1397,11 @@
         {
             "baseWord": "spill",
             "baseTranslation": "derramar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "spilt/spilled",
                 "example": "",
@@ -1081,6 +1416,11 @@
         {
             "baseWord": "spread",
             "baseTranslation": "difundir, propagar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "spread",
                 "example": "",
@@ -1095,6 +1435,11 @@
         {
             "baseWord": "stand",
             "baseTranslation": "estar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "stood",
                 "example": "",
@@ -1109,6 +1454,11 @@
         {
             "baseWord": "steal",
             "baseTranslation": "robar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "stole",
                 "example": "",
@@ -1123,6 +1473,11 @@
         {
             "baseWord": "sting",
             "baseTranslation": "picar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "stung",
                 "example": "",
@@ -1137,6 +1492,11 @@
         {
             "baseWord": "swim",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "swam",
                 "example": "",
@@ -1151,6 +1511,11 @@
         {
             "baseWord": "take",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "took",
                 "example": "",
@@ -1165,6 +1530,11 @@
         {
             "baseWord": "teach",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "taught",
                 "example": "",
@@ -1179,6 +1549,11 @@
         {
             "baseWord": "tell",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "told",
                 "example": "I told you twice",
@@ -1193,6 +1568,11 @@
         {
             "baseWord": "think",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "thought",
                 "example": "",
@@ -1207,6 +1587,11 @@
         {
             "baseWord": "throw",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "threw",
                 "example": "",
@@ -1221,6 +1606,11 @@
         {
             "baseWord": "understand",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "understood",
                 "example": "",
@@ -1235,6 +1625,11 @@
         {
             "baseWord": "wake",
             "baseTranslation": "despertar",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "woke",
                 "example": "",
@@ -1249,6 +1644,11 @@
         {
             "baseWord": "wear",
             "baseTranslation": "vestir",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "wore",
                 "example": "",
@@ -1263,6 +1663,11 @@
         {
             "baseWord": "win",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "won",
                 "example": "",
@@ -1277,6 +1682,11 @@
         {
             "baseWord": "withdraw",
             "baseTranslation": "retirarse",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "withdrew",
                 "example": "",
@@ -1291,6 +1701,11 @@
         {
             "baseWord": "write",
             "baseTranslation": "",
+            "baseWord": {
+                "word": "",
+                "example": "",
+                "translation": ""
+            },
             "simplePast": {
                 "word": "wrote",
                 "example": "",
